@@ -1,0 +1,28 @@
+name: Sequoyah Riding Stables
+favicon: null
+layout_spectrum: 0.34711538534611464
+typography_spectrum: 0.9236495075747371
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.862227568635717
+  lightness: 0.47814257675781846
+  saturation: 0.185823199339211
+  rhythmicContrast: 0.6501926649361849
+purpose: []
